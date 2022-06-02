@@ -1,0 +1,5 @@
+# Datos para la base de datos
+HOST = "localhost"
+USER = "su-usuario"
+PASS = "su-clave"
+BD = "su-bd"
